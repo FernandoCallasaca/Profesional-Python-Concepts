@@ -7,7 +7,7 @@ def is_palindrom(word: str) -> bool:
 def run():
    # enter a word
    word = input('Enter a word to veryfy if its palindrome: ')
-   print(is_palindrom(word))
+   print(is_palindrom(100))
 
 if __name__ == '__main__':
    run()
